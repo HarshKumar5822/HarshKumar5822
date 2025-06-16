@@ -42,8 +42,8 @@ I'm a Cybersecurity student with a strong interest in ethical hacking, OSINT, an
 
 - 🚑 **SwasthyaSakhi** – Women Health App (React Native + Node.js + MongoDB)
 - 💸 **FinGenius** – Personal Finance Manager (MERN Stack)
-- 📘 **EduMatch** – College Finder App Based on EAMCET Rank
-- 🏠 **HostelMate** – Hostel Discovery App with Location Filters
+- 📘 **EduMatch** – College Finder App Based on EAMCET Rank (MERN Stack)
+- 🏠 **HostelMate** – Hostel Discovery App with Location Filters (MERN Stack)
 
 ---
 
