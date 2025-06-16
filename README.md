@@ -5,7 +5,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=HarshKumar5822&color=blue)
 
 Welcome to my GitHub profile! I'm a passionate **Web Developer** and an aspiring **Tech Explorer** who loves building real-world projects using the **MERN stack** (MongoDB, Express.js, React, Node.js). I'm currently sharpening my skills in **Cybersecurity**, exploring areas like ethical hacking, OSINT, and network security. With a deep curiosity for technology, I’m always eager to learn new tools, frameworks, and ideas that can help me grow as a developer and security enthusiast.
-- currently diving deep into:
+### currently diving deep into:
 - Web Development 🌐
 - Mobile App Development 📱
 - Penetration Testing 🛡️
