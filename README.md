@@ -14,7 +14,6 @@ Welcome to my GitHub profile! I'm a passionate **Web Developer** and an aspiring
 ---
 
 ## 🧠 About Me
-## 🧠 About Me
 
 Hi there! I'm Harsh Kumar — a curious and self-driven learner, currently pursuing my degree in **Cybersecurity** with a strong interest in **Web Development** and **Full-Stack Engineering**. I enjoy building real-world applications that solve practical problems and enhance digital experiences.
 
