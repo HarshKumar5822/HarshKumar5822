@@ -1,5 +1,3 @@
-# My-profile- Harsh Kumar 
-
 # Hi, I'm Harsh Kumar! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=HarshKumar5822&color=blue)
