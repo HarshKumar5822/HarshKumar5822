@@ -14,7 +14,18 @@ Welcome to my GitHub profile! I'm a passionate **Web Developer** and an aspiring
 ---
 
 ## 🧠 About Me
-I'm a Cybersecurity student with a strong interest in ethical hacking, OSINT, and full-stack development. I love turning ideas into applications—whether it's a secure financial app, a student support system, or a smart bot.  
+## 🧠 About Me
+
+Hi there! I'm Harshu — a curious and self-driven learner, currently pursuing my degree in **Cybersecurity** with a strong interest in **Web Development** and **Full-Stack Engineering**. I enjoy building real-world applications that solve practical problems and enhance digital experiences.
+
+I'm currently skilled in **Web Development**, with hands-on experience building dynamic and responsive apps using the **MERN stack** (MongoDB, Express.js, React.js, Node.js). I love turning ideas into reality—whether it's a finance tracker, a student resource tool, or a health-focused mobile application.
+
+🔐 On the cybersecurity side, I'm exploring ethical hacking, OSINT (Open Source Intelligence), and penetration testing, always aiming to understand how systems can be both built and broken securely.
+
+✨ I'm a strong believer in continuous learning and enjoy diving into new technologies, frameworks, and tools. I'm currently working on projects that not only challenge my coding skills but also help me think like a problem-solver and builder.
+
+---
+
 
 📍 Based in India | 💻 Open to internships & collaborations  
 🚀 Currently building: **SwasthyaSakhi (Women Health App)** & **FinGenius (Finance Manager App)**
