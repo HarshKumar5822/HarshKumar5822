@@ -57,8 +57,8 @@ I'm a Cybersecurity student with a strong interest in ethical hacking, OSINT, an
 ## 📫 How to Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-kumar-936b47293)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@gmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/YOUR-INSTA/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](mailto:harshkragrawal2006@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/__happiest__boy__harshu__/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?logo=firefox&logoColor=white)](https://YOURPORTFOLIO.com)
 
 ---
