@@ -2,7 +2,7 @@
 
 # Hi, I'm Harshu! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=HarshKumar5822&color=blue)
 
 Welcome to my GitHub profile! I'm a passionate **Cybersecurity Enthusiast** and a **Tech Explorer**, currently diving deep into:
 - Web Development 🌐
