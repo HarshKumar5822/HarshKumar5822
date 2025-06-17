@@ -56,13 +56,6 @@ I'm currently skilled in **Web Development**, with hands-on experience building 
 
 ---
 
-## 📝 Blog & Learning
-- 📗 [Life Around Cybersecurity](#)
-- 📘 [Full Stack with React + MongoDB](#)
-- 🔐 [Understanding OSINT & Port Scanning](#)
-
----
-
 ## 📫 How to Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-kumar-936b47293)
